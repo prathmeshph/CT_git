@@ -1,1 +1,3 @@
-i am using git 
+i am using git
+
+and i have inserted a new line 
